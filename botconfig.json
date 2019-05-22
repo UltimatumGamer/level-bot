@@ -1,0 +1,19 @@
+{
+  "token": "[TOKEN]",
+  "ownerID": "[DEINE ID]",
+  
+  "prefix": {
+    "prefix": ">"
+  },
+
+  "mysql" : {
+    "host": "[IP]",
+    "user": "[USER]",
+    "port": "[PORT]",
+    "password": "[PASSWORT]",
+    "database": "[DATABASE]"
+  }
+
+  
+
+}
