@@ -24,6 +24,8 @@
       $ npm install mysql
 
       
- 
+## Bot Starten
+      $ npm start (=> Nodemon)
+      4 npm test (=> Normal)
 
 # Viel Spaß beim einrichten.
