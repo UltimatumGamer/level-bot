@@ -4,6 +4,7 @@
 ## Das muss eingestellt werden botconfig.json
       1."token": "[TOKEN]" - https://discordapp.com/developers/applications/
       2."ownerID": "[DEINE ID]" - Deine ID
+      3"invite":"[CLIENT ID]" - https://discordapp.com/developers/applications/
       
       "prefix": {
             "prefix": ">" - Prefix (zB.: ? oder ! => Standart >)
