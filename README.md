@@ -1,5 +1,5 @@
 # Der Bot wurde von UltimatumGamer für Discord-Bots.de programmiert.
-### Der Bot kann ohne meine Einwilligung verändert und veröffentlicht werden.
+### Der Bot kann ohne meine Einwilligung verändert und neu veröffentlicht werden.
 
 ## Das muss eingestellt werden botconfig.json
       1."token": "[TOKEN]" - https://discordapp.com/developers/applications/
