@@ -30,4 +30,4 @@
       $ npm start (=> Nodemon)
       4 npm test (=> Normal)
 
-# Viel Spaß beim einrichten.
+# Viel Spaß mit meinem kleinen aber feinen Bot. :)
