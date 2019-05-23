@@ -5,12 +5,11 @@
       1."token": "[TOKEN]" - https://discordapp.com/developers/applications/
       2."ownerID": "[DEINE ID]" - Deine ID
       3"invite":"[CLIENT ID]" - https://discordapp.com/developers/applications/
-      
-      "prefix": {
+      4."prefix": {
             "prefix": ">" - Prefix (zB.: ? oder ! => Standart >)
       }
 ### Um mit dem Bot arbeiten zu können brauchst du eine MySql-Datenbank
-      => MySql-Daten hier eintragen
+      => MySql-Daten hier eintragen (auch in der botconfig.json)
       "mysql" : {
       "host": "[IP]",
       "user": "[USER]",
