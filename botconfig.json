@@ -5,6 +5,7 @@
   "prefix": {
     "prefix": ">"
   },
+  "invite":"[CLIENT ID]",
 
   "mysql" : {
     "host": "[IP]",
