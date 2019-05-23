@@ -27,10 +27,11 @@ module.exports.run = async (client, bot, message, args) => {
             embed.setFooter(`Angefragt von: ${message.author.username}`,message.author.avatarURL);
             embed.setTimestamp()
             embed.setThumbnail('https://discord-bots.de/wp-content/uploads/2019/05/question.png')
-            embed.addField("Befehle", `**`+botconfig.prefix.prefix+`help** \`\`COMMAND\`\`\n
-            **`+botconfig.prefix.prefix+`xp - Lasse dir deine XP anzeigen**
-            **`+botconfig.prefix.prefix+`xp-info - Levelübersicht**
-            **`+botconfig.prefix.prefix+`xp-top - Bestenliste des Servers**`)
+            embed.addField("Befehle", `**`+botconfig.prefix.prefix+`help** \`\`BEFEHL\`\`\n
+            **`+botconfig.prefix.prefix+`invite - Lade mich auf deinen Server ein.**\n
+            **`+botconfig.prefix.prefix+`xp \`\`@USER\`\` - Lasse dir die XP eines Nutzers anzeigen.**
+            **`+botconfig.prefix.prefix+`xp-info - Levelübersicht auf diesem Server.**
+            **`+botconfig.prefix.prefix+`xp-top \`\`ANZAHL\`\` - Bestenliste des Servers.**`)
            message.channel.send(embed)
     }
 }

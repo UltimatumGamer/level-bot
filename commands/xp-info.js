@@ -1,7 +1,7 @@
 const botconfig = require('./../botconfig.json');
 const Discord = require('discord.js');
 const lv = require('./../level.json');
-module.exports.run = (message, con) => {
+module.exports.run = (client, bot, message, args, con) => {
   message.delete()
   let sEmbed = new Discord.RichEmbed()
   .setColor(`RANDOM`)
