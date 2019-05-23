@@ -22,7 +22,7 @@
  ## Module installieren
  
       $ npm install discord.js
-      $ npm install mysql
+      $ npm install nodemon
 
       
 ## Bot Starten
