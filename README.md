@@ -8,7 +8,7 @@
       4."prefix": {
             "prefix": ">" - Prefix (zB.: ? oder ! => Standart >)
       }
-### Um mit dem Bot arbeiten zu können brauchst du eine MySql-Datenbank
+## Um mit dem Bot arbeiten zu können brauchst du eine MySql-Datenbank
       => MySql-Daten hier eintragen (auch in der botconfig.json)
       "mysql" : {
       "host": "[IP]",
@@ -19,7 +19,7 @@
             }
   
   
- ## Module installieren
+## Module installieren
  
       $ npm install discord.js
       $ npm install nodemon
